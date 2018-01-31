@@ -1,2 +1,3 @@
-# trainings
-All training materials
+# Trainings
+
+Repository of materials used at Trainings conducted by TarkaLabs.
